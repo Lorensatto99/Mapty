@@ -4,4 +4,8 @@ Project to record the path of all your physical activities such as walking and c
 
 &nbsp;
 
-Check it out: 
+Check it out: https://mapty-celsolorensatto.netlify.app/
+
+&nbsp;
+
+' * You will need to Allow your location, to work as intended.
